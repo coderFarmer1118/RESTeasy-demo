@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RESTeassy-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RESTeassy-demo.war">
+      <element id="artifact" artifact-name="RESTeassy-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
